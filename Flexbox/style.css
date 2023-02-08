@@ -1,0 +1,15 @@
+body{
+    background-color: cadetblue;
+}
+.main{
+display: flex;
+background-color: aqua;
+flex-flow: wrap row;
+justify-content: flex-end;
+align-items: center;
+}
+.main >div{
+    background-color: brown;
+    margin: 10px;
+    padding: 10px;
+}
