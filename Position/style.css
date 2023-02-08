@@ -1,0 +1,36 @@
+body{
+    background-color: aqua;
+}
+
+.div1{
+    background-color: aliceblue;
+    width: 120px;
+    height: 50px;
+    text-align: center;
+    position: fixed;
+    top: 50px;
+}
+.div2{
+    background-color: rgb(87, 119, 147);
+    width: 150px;
+    height: 50px;
+    text-align: center;
+    position: static;
+    /* top: 120px; */
+
+}
+.div3{
+    background-color: rgb(178, 189, 199);
+    position: relative;
+    top: 100px;
+    height: 250px;
+}
+.div4{
+    background-color: brown;
+    width: 140px;
+    height: 50px;
+    text-align: center;
+   position: absolute;
+   top:130px;
+   left: 150px;
+}
